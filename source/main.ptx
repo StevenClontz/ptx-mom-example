@@ -48,11 +48,13 @@
 
     <chapter xml:id="chapter-title">
       <title>Chapter title</title>
-
-      <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
-      </section>
+      <exercise>
+        <title>Negative Numbers and Exponents</title>
+        <introduction>
+            <p>This is an introduction, providing articulation between the MOM problem and the contents of the text.  For example, you might cross-reference a result or example given previosly.  (HTML Note: The resizer for the knowl is not functioning yet.)</p>
+        </introduction>
+        <myopenmath problem="2572" />
+    </exercise>
 
     </chapter>
 
